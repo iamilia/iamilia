@@ -50,5 +50,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamilia&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamilia&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Discord Profile
+### Discord Status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/572087106483257354)](https://discord.com/users/572087106483257354)
