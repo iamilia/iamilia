@@ -19,6 +19,12 @@
 
 <br/>
 
+## 🌐Socials
+ <p><a href="https://discord.gg/BFbDt6yNaj">
+     <img src="https://img.shields.io/discord/803577880410980364?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+ </a></p>
+
+
       
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
@@ -38,11 +44,8 @@
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 </div>
   
-## Analytics ⚙️ &nbsp;
-  
-<p align="center">
-  <a href="https://github.com/iamilia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamilia&layout=compact&hide=TSQL&theme=chartreuse-dark" />
-    <img height="180em" img src="https://github-readme-stats.vercel.app/api?username=iamilia&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true"/>
-  </a>
-</p>
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=iamilia&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamilia&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamilia&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
