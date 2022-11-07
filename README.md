@@ -13,16 +13,9 @@
 <h2> 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"></h2>
 
 <a target="_blank">
-   <img align="right" height="250" width= "280px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+   <img align="right" height="250" width= "280px" alt="GIF" src="https://cdn.discordapp.com/attachments/997534295122001971/1039289698197188619/2882629854d56075fd86d61ddee25975.gif" />
 </a>
-
-- 🔭 I’m currently working on a massive FiveM update, stay tuned!
-  
 - 🌱 I’m currently learning TypeScript Frameworks
-  
-- 👯 I’m looking to collaborate on FiveM Projects
-  
-- 💬 Ask me about Lua, FiveM, and much more! I am always happy to help
 
 <br/>
 
@@ -30,7 +23,6 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
 <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"></code>
-<code><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"></code>
 <br/>
 <br/>  
 <code><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"></code>
