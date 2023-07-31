@@ -16,7 +16,6 @@
 <br>
 <p>- 📔 I am currently working in the company and Fivem game servers. </p>
 <br>
-<p>- 📫 How to reach me **iam_ilia** </p>
 
 <br><br>
 
@@ -33,7 +32,6 @@
     <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"></code>
     <img src="https://raw.githubusercontent.com/maciejkorsan/typescript-blue/master/logo-text.svg?sanitize=true" alt="TypeScript" height="32px" width="96px" style="max-width: 100%;">
     <code><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
-    <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"></code>
     <code><img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"></code>
     <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
