@@ -91,4 +91,4 @@
 
 ###
 
-<a href="https://www.coffeebede.com/iamilia"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://www.coffeebede.com/iamilia"><img style="max-width: 100%;width: 250px;margin-left: 565px;" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
