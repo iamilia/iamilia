@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ilia from Iran<br><br>- 📚 I'm currently learning FrontEnd.<br>- 📔 I am currently working in the company and Fivem game servers.</p>
+<p align="left">- 📚 I'm currently learning FrontEnd.<br>- 📔 I am currently working in the company and Fivem game servers.</p>
 
 ###
 
