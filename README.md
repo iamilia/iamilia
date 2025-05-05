@@ -1,74 +1,110 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350" alt="Coding Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Graph" />
   
-  # Hey there, I'm Ilia 👋
+  # Ilia | Frontend Developer & FiveM Specialist
   
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/iamilia)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/1m_ilia?t=7haTLFffc0wNv0DzvCxm9A&s=09)
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/BFbDt6yNaj)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamilia)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=iamilia&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+  <p>Crafting exceptional web experiences and game server solutions</p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=iamilia&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
-## 💫 About Me
+<br>
+
+## 🚀 What I Do
 
 ```typescript
 const ilia = {
-  currentFocus: "Frontend Development 🚀",
-  currentWork: "Company & FiveM Game Servers 🎮",
-  learning: ["React", "TypeScript", "Advanced JavaScript"],
-  askMeAbout: ["Web Dev", "Game Development", "FiveM", "Tech"]
+  expertise: [
+    "Frontend Development ⚛️",
+    "Game Server Development 🎮",
+    "FiveM Scripting & Resources 🛠️",
+    "UI/UX Design 🎨"
+  ],
+  currentFocus: "Building scalable web applications with React & TypeScript",
+  passionateLearner: true
 };
 ```
 
-## 🛠️ Tech Stack
+<br>
+
+## 💻 Core Technologies
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,sass" alt="Frontend Skills" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend & Scripting</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,lua,mongodb,mysql" alt="Backend Skills" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Tools & Workflow</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,webpack,vite,figma,vscode,bash" alt="Tools" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🏆 Featured Projects
 
 <div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-### Tools & Database
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamilia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=iamilia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-## 🔥 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamilia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://www.coffeebede.com/iamilia">
-    <img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="250" />
+  <a href="https://github.com/iamilia/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamilia&repo=project-1&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/iamilia/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamilia&repo=project-2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=iamilia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=iamilia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF&hide=contribs" alt="GitHub Stats" />
+</div>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamilia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<br>
+
+## 💡 Current Focus
+
+- Developing advanced FiveM server resources
+- Enhancing UI/UX with React & TypeScript
+- Creating responsive & accessible web applications
+- Building real-time data visualization dashboards
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.coffeebede.com/iamilia">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
