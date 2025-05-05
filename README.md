@@ -58,17 +58,6 @@ const ilia = {
 
 <br>
 
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/iamilia/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamilia&repo=project-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/iamilia/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamilia&repo=project-2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
 <br>
 
 ## 📊 GitHub Metrics
