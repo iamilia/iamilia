@@ -1,104 +1,99 @@
 <div align="center">
-
-<!-- Snake animation — points at YOUR repo's output branch (see snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamilia/iamilia/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamilia/iamilia/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/iamilia/iamilia/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-# Ilia
-
-**Frontend Developer · FiveM Server Developer**
-
-React and TypeScript on the client, Lua and Node on the server.
-I build interfaces that feel fast and game systems that don't fall over at 64 players.
-
-<a href="https://ilia.liara.run"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=5BCDEC" alt="Portfolio" /></a>
-<a href="https://twitter.com/1m_ilia"><img src="https://img.shields.io/badge/Twitter-0D1117?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
-<a href="https://discord.com/invite/BFbDt6yNaj"><img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" /></a>
-<a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=maildotru&logoColor=EA4335" alt="Email" /></a>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Graph" />
+  
+  # Ilia | Frontend Developer & FiveM Specialist
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://ilia.liara.run)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/1m_ilia?t=7haTLFffc0wNv0DzvCxm9A&s=09)
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/BFbDt6yNaj)
+  
+  <p>Crafting exceptional web experiences and game server solutions</p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=iamilia&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
----
-
-## About
-
-I'm a frontend developer focused on **React + TypeScript**, with a second life building
-resources and NUI systems for **FiveM** servers. Most of my work sits where those two meet:
-game backends written in Lua, talking to web UIs that have to render in a few milliseconds.
-
-- 🔭 Currently building — advanced FiveM resources and real-time dashboards
-- 🌱 Currently learning — performance profiling, accessible component patterns
-- 💬 Ask me about — React state management, NUI ↔ Lua messaging, server optimization
-- 📫 Reach me — [Discord](https://discord.com/invite/BFbDt6yNaj) is fastest
-
----
-
-## Tech
-
-**Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=ts,js,lua,html,css&theme=dark" alt="TypeScript, JavaScript, Lua, HTML, CSS" height="40" />
 
-**Frontend**
+## 🚀 What I Do
+
+```typescript
+const ilia = {
+  expertise: [
+    "Frontend Development ⚛️",
+    "Game Server Development 🎮",
+    "FiveM Scripting & Resources 🛠️",
+    "UI/UX Design 🎨"
+  ],
+  currentFocus: "Building scalable web applications with React & TypeScript",
+  passionateLearner: true
+};
+```
+
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite&theme=dark" alt="React, Next.js, Tailwind, Sass, Vite" height="40" />
 
-**Backend & Data**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" alt="Node.js, Express, MongoDB, MySQL, Redis" height="40" />
+## 💻 Core Technologies
 
-**Tooling**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,bash&theme=dark" alt="Git, GitHub, Docker, Figma, VS Code, Bash" height="40" />
-
----
-
-## Featured Work
-
-<!-- Replace the repo names below with your actual repos. -->
 <table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/iamilia/REPO-ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamilia&repo=REPO-ONE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=C9D1D9" alt="Repo One" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/iamilia/REPO-TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamilia&repo=REPO-TWO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=C9D1D9" alt="Repo Two" />
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,sass" alt="Frontend Skills" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend & Scripting</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,lua,mongodb,mysql" alt="Backend Skills" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Tools & Workflow</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,webpack,vite,figma,vscode,bash" alt="Tools" />
+      </div>
+    </td>
+  </tr>
 </table>
 
----
+<br>
 
-## Stats
+<br>
+
+## 📊 GitHub Metrics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamilia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=C9D1D9&hide=contribs&card_width=450" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=iamilia&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=5BCDEC&sideLabels=5BCDEC&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamilia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&area_color=5BCDEC&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=iamilia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=iamilia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF&hide=contribs" alt="GitHub Stats" />
 </div>
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamilia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<br>
+
+## 💡 Current Focus
+
+- Developing advanced FiveM server resources
+- Enhancing UI/UX with React & TypeScript
+- Creating responsive & accessible web applications
+- Building real-time data visualization dashboards
+
+<br>
+
+## 🤝 Let's Connect
 
 <div align="center">
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.coffeebede.com/iamilia">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support" />
+  </a>
+</div>
 
-<a href="https://www.coffeebede.com/iamilia">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-0D1117?style=flat-square&logo=buymeacoffee&logoColor=FFDD00" alt="Support my work" />
-</a>
-
-<sub>Thanks for stopping by.</sub>
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
