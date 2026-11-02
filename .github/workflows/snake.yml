@@ -1,0 +1,31 @@
+# Draws my own contribution graph as a snake, in the portfolio's blue, onto the `output` branch.
+name: snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#0066cc&color_dots=#ebedf0,#cce0f5,#8cbcee,#3d8de0,#0066cc
+            dist/snake-dark.svg?color_snake=#2997ff&color_dots=#161b22,#0c2d4f,#124b85,#1d74cc,#2997ff
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
