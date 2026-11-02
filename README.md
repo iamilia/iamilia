@@ -15,5 +15,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" width="100%" alt="Stack — Game servers: Lua, FiveM, ESX, QBCore, ox_lib, MySQL. Web: React, TypeScript, Vue, Tailwind CSS, Vite. Backend: Node.js, Express, Go, MongoDB." />
+  <img src="assets/stack-light.svg" width="100%" alt="Stack — Game servers: Lua, FiveM, ESX, QBCore, ox_lib, oxmysql, Discord.js. Web: React, TypeScript, Next.js, Vue, Tailwind CSS, Sass, Zustand, Vite. Backend: Node.js, Express, Python, Go, C++, Socket.io. Data and tools: PostgreSQL, MySQL, MongoDB, Prisma, Drizzle, Git, Bash." />
 </picture>

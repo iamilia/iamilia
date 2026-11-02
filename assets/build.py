@@ -86,31 +86,33 @@ def svg(c):
 
 
 STACK = [
-    ("Game servers", ["Lua", "FiveM", "ESX · QBCore · ox_lib", "MySQL"]),
-    ("Web", ["React", "TypeScript", "Vue · Tailwind CSS", "Vite"]),
-    ("Backend", ["Node.js", "Express", "Go", "MongoDB"]),
+    ("Game servers", ["Lua", "FiveM", "ESX · QBCore · ox_lib", "oxmysql", "Discord.js"]),
+    ("Web", ["React", "TypeScript", "Next.js · Vue", "Tailwind CSS · Sass", "Zustand · Vite"]),
+    ("Backend", ["Node.js", "Express", "Python · Go", "C++", "Socket.io"]),
+    ("Data &amp; tools", ["PostgreSQL", "MySQL", "MongoDB", "Prisma · Drizzle", "Git · Bash"]),
 ]
 
 
 def stack_svg(c):
+    STACK_TITLE = "Stack — " + ". ".join(f"{t}: {', '.join(i)}" for t, i in STACK).replace(" · ", ", ") + "."
     cols = []
     for i, (title, items) in enumerate(STACK):
-        base = i * 160
+        base = i * 140
         rows = "".join(
             f'<g transform="translate(0 {96 + j * 40})"><text class="in" style="animation-delay:{base + 300 + j * 70}ms" '
             f'font-size="{26 if j < 2 else 22}" font-weight="{600 if j < 2 else 400}" fill="{c["fg"] if j < 2 else c["muted"]}">{item}</text></g>'
             for j, item in enumerate(items)
         )
         cols.append(
-            f'<g transform="translate({6 + i * 400} 0)">'
-            f'<rect x="0" y="0" width="340" height="2" rx="1" fill="{c["track"]}"/>'
-            f'<rect class="seg" style="animation-delay:{base}ms" x="0" y="0" width="340" height="2" rx="1" fill="{c["accent"]}"/>'
+            f'<g transform="translate({6 + i * 300} 0)">'
+            f'<rect x="0" y="0" width="260" height="2" rx="1" fill="{c["track"]}"/>'
+            f'<rect class="seg" style="animation-delay:{base}ms" x="0" y="0" width="260" height="2" rx="1" fill="{c["accent"]}"/>'
             f'<text class="in" style="animation-delay:{base + 150}ms" y="46" font-size="20" fill="{c["accent"]}">{title}</text>'
             f"{rows}</g>"
         )
     body = "\n  ".join(cols)
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="st">
-  <title id="st">Stack — Game servers: Lua, FiveM, ESX, QBCore, ox_lib, MySQL. Web: React, TypeScript, Vue, Tailwind CSS, Vite. Backend: Node.js, Express, Go, MongoDB.</title>
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="1200" height="290" role="img" aria-labelledby="st">
+  <title id="st">{STACK_TITLE}</title>
   <style>
     text {{ font-family: {FONT}; letter-spacing: -0.2px; }}
     .in {{ opacity: 0; animation: up 700ms cubic-bezier(0.22, 1, 0.36, 1) both; }}
