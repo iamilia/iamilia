@@ -86,10 +86,10 @@ def svg(c):
 
 
 STACK = [
-    ("Game servers", ["Lua", "FiveM", "ESX · QBCore · ox_lib", "oxmysql", "Discord.js"]),
-    ("Web", ["React", "TypeScript", "Next.js · Vue", "Tailwind CSS · Sass", "Zustand · Vite"]),
-    ("Backend", ["Node.js", "Express", "Python · Go", "C++", "Socket.io"]),
-    ("Data &amp; tools", ["PostgreSQL", "MySQL", "MongoDB", "Prisma · Drizzle", "Git · Bash"]),
+    ("Game servers", ["Lua", "FiveM", "ESX · QBCore", "ox_lib · oxmysql", "Discord.js"]),
+    ("Web", ["React", "TypeScript", "JavaScript · HTML · CSS", "Next.js · Vue", "Tailwind CSS · Sass", "Zustand · Vite"]),
+    ("Backend", ["Node.js", "Express", "Python · Go", "C++ · Bash", "Socket.io"]),
+    ("Data &amp; tools", ["PostgreSQL", "MySQL", "MongoDB · Redis", "Prisma · Drizzle", "Git · HeidiSQL · FFmpeg", "Visual Studio · Figma"]),
 ]
 
 
@@ -111,7 +111,7 @@ def stack_svg(c):
             f"{rows}</g>"
         )
     body = "\n  ".join(cols)
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="1200" height="290" role="img" aria-labelledby="st">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="st">
   <title id="st">{STACK_TITLE}</title>
   <style>
     text {{ font-family: {FONT}; letter-spacing: -0.2px; }}
